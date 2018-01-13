@@ -5,7 +5,7 @@ This is a painting program made using Java swing that has a movable canvas and c
 The objective of this personal project was to become more familiar with Java swing as well as Graphics2D which allows the user to draw on the canvas.
 
 ## Screenshot
-
+![paint program](https://user-images.githubusercontent.com/22140953/34911022-2ff16b2a-f88f-11e7-960a-9557bd6acf1f.png)
 
 ## Why is it called "Holi"?
 I wanted to give a unique name to this painting program. Holi is known as the festival of colors in India (https://en.wikipedia.org/wiki/Holi) and I thought it would be an interesting name for a paint program with bright colors.  
